@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pakkographic 
+## 👋 Hi, I’m @pakkographic 
 - JS, C++, C#, LUA(u)
 - Working at DinographicPixels (small company for my projects).
 - Contact me: ibrahim@dinographicpixels.com 
