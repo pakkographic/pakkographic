@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @pakkographic 
-- JS, C++, C#, LUA(u)
+- JS, LUA(u), TS, C#, (C++ (a bit))
 - Working at DinographicPixels (small company for my projects).
 - Contact me: ibrahim@dinographicpixels.com 
 - Contact DinographicPixels support: support@dinographicpixels.com
