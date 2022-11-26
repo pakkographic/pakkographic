@@ -5,6 +5,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PakkoGraphic&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
+Most of my developed projects/repositories aren't in this personal account, they're in [this organization](https://github.com/DinographicPixels).
+
 ## Current Projects
 
 |                                            Project                                           |                                                                                          Card                                                                                         |
