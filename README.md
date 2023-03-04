@@ -1,6 +1,7 @@
 ## Hi 👋
 
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/387942462393417729)](https://discord.com/users/387942462393417729)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PakkoGraphic&count_private=true&show_icons=true&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PakkoGraphic&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
