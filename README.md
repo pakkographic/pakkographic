@@ -1,6 +1,6 @@
 ## Hi! 👋
 ### I'm a software engineer, game developer & web developer.
-I also do illustrations, 3D models, and more.
+I also do graphic designs, 3D models, and more.
 
 **I code in:**
 * C++
