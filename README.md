@@ -12,7 +12,7 @@ I'm a software engineer, game developer & web developer.
 I also do graphic designs, 3D models, and more.
 
 
-### > Most of my public projects/repositories aren't in this personal account, they're in [this organization](https://github.com/DinographicPixels).
+> Most of my public projects/repositories aren't in this personal account, they're in [this organization](https://github.com/DinographicPixels).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PakkoGraphic&count_private=true&show_icons=true&theme=tokyonight">
