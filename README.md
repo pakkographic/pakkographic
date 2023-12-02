@@ -5,11 +5,12 @@ This is the beginning of an ambitious journey, that's how he created Dinographic
 
 At a very young age, I've started the development of a video game, for 3 years, but unfortunately, by working too hard on it, I did a burnout, which postponed a lot of my projects and ideas, as I needed years to recover.
 
-I'm now developing new projects to reach ambitious goals, focusing on details.
+Now, I'm developing new projects to reach ambitious goals, focusing on details.
 
 ## More details
-I'm a software engineer, game developer & web developer.
-I also do graphic designs, 3D models, and more.
+Self-taught Software Engineer & Web Developer, while also doing graphic design, 3D models and more.
+I also do business, to bring my projects to life.
+
 
 
 > Most of my public projects/repositories aren't in this personal account, they're in [this organization](https://github.com/DinographicPixels).
