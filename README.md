@@ -1,7 +1,7 @@
 ## My journey
 I would introduce myself as someone that is autodidact and passionate about creation, from modding, game development, web development, 3D modeling, graphic designs to refined designs and interactions. Let's say that I tried a lot of things out there.
 
-My journey began when I was around 7, as a young boy, having a PC that was unused at home, began to discover, step by step, from manipulating the OS to playing video games, by playing a game for quite some time, I realized over the months that I wanted to have a community, my own community, and create a video game server for that game. That's was my first step doing some researches on how to host a game server.
+My journey began when I was around 7, as a young boy, having a PC that was unused at home, began to discover, step by step, from manipulating the Windows OS to playing video games, by playing a game for quite some time, I realized over the months that I wanted to have a community, my own community, and create a video game server for that game. That's was my first step doing some researches on how to host a game server.
 
 When Windows 10 released, I was very excited, that sleek new design really amazed me, I had a PC running on Windows Vista, which was judged incompatible so I couldn't upgrade, at my young age I made a bootable USB to install Windows 10 anyways.
 
